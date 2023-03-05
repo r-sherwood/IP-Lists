@@ -43,5 +43,9 @@
 159.65.120.34
 # stretechoid
 192.241.236.50
-# censys
-167.248.133.62
+# censys https://support.censys.io/hc/en-us/articles/360038378552-Frequently-Asked-Questions
+162.142.125.0/24
+167.94.138.0/24
+167.94.145.0/24
+167.94.146.0/24
+167.248.133.0/24
