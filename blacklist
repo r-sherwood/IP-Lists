@@ -28,8 +28,7 @@
 147.182.240.245
 66.240.219.173
 #InterneTTL project http://www.internettl.org/
-104.152.52.236
-104.152.52.219
+104.152.52.0/24
 #standford edu
 171.67.70.0/23
 #postfix attack
