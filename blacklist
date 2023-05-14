@@ -39,6 +39,10 @@
 199.45.154.0/23
 # gino-research.net.cit.tum.de tech uni munich
 138.246.253.24
+# intrinsec.com
+213.32.122.82
+# academyforinternetresearch.org
+109.74.204.123
 #postfix attack
 141.98.11.0/24
 91.224.92.0/24
