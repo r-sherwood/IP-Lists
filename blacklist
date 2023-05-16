@@ -11,9 +11,11 @@
 209.126.110.3
 208.180.20.97
 103.176.110.237
-#spam
+##SPAM
 37.157.255.62
+# balashov.su
 77.87.212.13
+85.25.194.150
 #shodan
 216.117.2.180
 143.198.238.87
@@ -32,17 +34,17 @@
 66.240.219.173
 #InterneTTL project http://www.internettl.org/
 104.152.52.0/24
-#standford edu
+# standford edu
 171.67.70.0/23
-#georgia tech edu
+# georgia tech edu
 38.110.46.2
 #censys.io
 199.45.154.0/23
 # gino-research.net.cit.tum.de tech uni munich
 138.246.253.24
-# intrinsec.com
+#intrinsec.com
 213.32.122.82
-# academyforinternetresearch.org
+#academyforinternetresearch.org
 109.74.204.123
 #postfix attack
 141.98.11.0/24
