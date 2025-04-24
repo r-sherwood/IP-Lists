@@ -36,6 +36,8 @@
 2602:80d:1010::/122
 #cc.gatech.edu
 2001:550:9005:2000::11
+#fb02itsscan02.fh-muenster.de
+2a02:c6a0:4001:b000::ff
 #leakix.net https://scan.leakix.net/
 2604:a880:4:1d0::3f2:6000
 2604:a880:800:10::d4c:f001
