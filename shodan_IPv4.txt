@@ -333,3 +333,7 @@
 147.182.240.245
 # drive.census.shodan.io
 146.190.149.252
+# adeptus.census.shodan.io
+146.190.153.30
+# garden.census.shodan.io
+209.38.70.156
