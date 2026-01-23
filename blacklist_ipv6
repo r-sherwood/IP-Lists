@@ -43,6 +43,10 @@
 #fb02itsscan02.fh-muenster.de
 2a02:c6a0:4001:b000::ff
 2a02:c6a0:4001:b000:dead::99ae
+#onyphe
+2001:41d0:403:1f43::1000/124
+2001:41d0:33a:a00::/64
+2a14:f100::/29
 #leakix.net https://scan.leakix.net/
 2604:a880:4:1d0::3f2:6000
 2604:a880:800:10::d4c:f001
