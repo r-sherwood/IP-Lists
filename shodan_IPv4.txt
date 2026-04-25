@@ -339,3 +339,5 @@
 209.38.70.156
 # sand.census.shodan.io
 209.38.131.131
+# bed.census.shodan.io
+64.23.161.101
