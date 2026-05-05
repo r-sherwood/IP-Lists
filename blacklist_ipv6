@@ -1,5 +1,6 @@
 #attacks
 2602:80d:1007::/80
+2602:80d:1008::/80
 #monitoring.internet-measurement.com, drift.net
 2a06:4880::/32
 2604:a880:800:10::c4b:f000/124
