@@ -343,3 +343,5 @@
 64.23.161.101
 # mechanicus.census.shodan.io
 64.23.214.73
+# guitar.census.shodan.io
+86.54.31.46
