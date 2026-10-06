@@ -1,0 +1,22 @@
+#https://github.com/r-sherwood/IP-Lists/blob/main/blacklist_ipv6
+#shodan.io
+2602:80d:1000:b0cc:e::/80
+2620:96:e000:b0cc:e::/80
+2001:470:1:c84::28
+#https://github.com/r-sherwood/IP-Lists/blob/main/blacklist
+#shodan attacks
+143.198.238.87
+185.142.236.41
+165.227.172.206
+164.92.114.247
+157.245.222.108
+139.59.170.85
+165.227.188.42
+24.144.84.171
+#possible smtp shodan
+207.90.244.10
+#possible imap shodan
+207.90.244.13
+207.90.244.0/24
+146.190.149.252
+146.190.149.0/24
